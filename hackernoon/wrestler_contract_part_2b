@@ -1,0 +1,139 @@
+anthony@debian:~/truffle_stuff$ ganache-cli -p 7545
+Ganache CLI v6.1.8 (ganache-core: 2.2.1)
+
+Available Accounts
+==================
+(0) 0x80af0cfe379662fd54791e69497955666923ae58 (~100 ETH)
+(1) 0x2a110b34686da8734f308958873fa0271a12aca6 (~100 ETH)
+(2) 0x88a05d43ba631ff01335d9c546b365cc83f3882a (~100 ETH)
+(3) 0x5ecc1e629ba04f2fb554e949fa031ea17e7cd900 (~100 ETH)
+(4) 0x90ac1db956e922ac846d20329199ce394a203c18 (~100 ETH)
+(5) 0xb051bcc0f75e9e3f4b0899ac1554c9cb05bc9434 (~100 ETH)
+(6) 0x736bb06662644402b0373f97399ff18cc5f12435 (~100 ETH)
+(7) 0xe61b91eb33a5357be42fb94fdfb960197449f620 (~100 ETH)
+(8) 0x2bc95d2e96cb491de5ad605d811a51e569a33b38 (~100 ETH)
+(9) 0xc8d811f630d0ee4bf5e056bd46157a5e91132b14 (~100 ETH)
+
+Private Keys
+==================
+(0) 0xde535c77a2bcb08bbedaa48baa3bea7327359d348ac5e58bc364f6ef1d5415f1
+(1) 0xcb911935915ec98e6794119f28b8ebb3593ee142209d6d185f190ed0d68a3ccf
+(2) 0x8679af41728f4a3f37b7c74a0c397c4797c04a5f9105d7cdc3b5f3f11e6fde9b
+(3) 0xeaa1dd83c824befb4d4d464aab19486d1becb804721716d316d7677022830265
+(4) 0x5404e529f675c537a23184b6aa31ddeeb9e5ab18da6402dd4d796bded78c5f8a
+(5) 0xfa162c837016eb198580c70f8294ebc5778ce03de06c6dc3b12d0fdd19d6a0d3
+(6) 0x8e80afddbe376a7d327283a896542585bb6e956bceb9d2d1034de6b8bf53ae37
+(7) 0x905471cf9c302dea54583bcd0854bcca5b455829182f5e2c25d3e451c7943dc8
+(8) 0x52fead464f16ed2241d87b0e0d659a4b5a858ee57dc8958a7614b01f3a719848
+(9) 0x81a30305a87fa141e70b6f433a6b93136717f8895d44f4c3e17ebc8feba902a2
+
+HD Wallet
+==================
+Mnemonic:      supreme situate canoe guilt super enemy rice load lend domain turn already
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Listening on 127.0.0.1:7545
+net_version
+eth_accounts
+eth_accounts
+net_version
+net_version
+eth_sendTransaction
+
+  Transaction: 0x7d3bedb0c44d0b90ba6040d5e61213dd2952d460660fce4e3d0d654e87b57173
+  Contract created: 0xa624723df93f9b5e495dc0d45f268a294c9e353a
+  Gas usage: 277462
+  Block Number: 1
+  Block Time: Mon Sep 10 2018 14:57:44 GMT-0400 (EDT)
+
+eth_newBlockFilter
+eth_getFilterChanges
+eth_getTransactionReceipt
+eth_getCode
+eth_uninstallFilter
+eth_sendTransaction
+
+  Transaction: 0xb723694f3c4f20bd3c9d9878138fa6c0868dc03ea608523ef83689fb9bd3a45e
+  Gas usage: 42008
+  Block Number: 2
+  Block Time: Mon Sep 10 2018 14:57:44 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+eth_accounts
+net_version
+net_version
+eth_sendTransaction
+
+  Transaction: 0x200a1b6f6e97206b9d03b6f4c9c3ad51c3e3d514451668b74e8449c43753ee67
+  Contract created: 0xf58f416df0451470b23913b11014e69f95aa03da
+  Gas usage: 709853
+  Block Number: 3
+  Block Time: Mon Sep 10 2018 14:57:44 GMT-0400 (EDT)
+
+eth_newBlockFilter
+eth_getFilterChanges
+eth_getTransactionReceipt
+eth_getCode
+eth_uninstallFilter
+eth_sendTransaction
+
+  Transaction: 0x88565d3bc2e155a91765b083c7d8da19a4696fcc6da9ff1509903354d963feb0
+  Gas usage: 27008
+  Block Number: 4
+  Block Time: Mon Sep 10 2018 14:57:44 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+net_version
+eth_accounts
+eth_accounts
+eth_accounts
+eth_call
+eth_sendTransaction
+
+  Transaction: 0xca159c90b53b6216c48458c215ed06412dba78f079b2fa88bb37277c9ee2edc6
+  Gas usage: 43900
+  Block Number: 5
+  Block Time: Mon Sep 10 2018 15:10:27 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+eth_call
+eth_sendTransaction
+
+  Transaction: 0xe2792d81a4b1424992dcfb7edfeb34cdba7e518d72ce58aef2655b6d156bf0da
+  Gas usage: 63752
+  Block Number: 6
+  Block Time: Mon Sep 10 2018 15:12:03 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+eth_sendTransaction
+
+  Transaction: 0x98ef6837436729e5328b6519d6f4267fff06b6b90ccad5643487dc5ee5d65b3d
+  Gas usage: 47280
+  Block Number: 7
+  Block Time: Mon Sep 10 2018 15:14:42 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+eth_sendTransaction
+
+  Transaction: 0x3a00db22da0ca10adb1b3de87a214ebe51107518b6c8d1f499ce1e28cc0b602e
+  Gas usage: 48752
+  Block Number: 8
+  Block Time: Mon Sep 10 2018 15:15:30 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
+eth_sendTransaction
+
+  Transaction: 0x0968c5cba858bd9551d246dd37e01fc85157aceda2bf7f821b1a233e44af2d6b
+  Gas usage: 67713
+  Block Number: 9
+  Block Time: Mon Sep 10 2018 15:15:54 GMT-0400 (EDT)
+
+eth_getTransactionReceipt
